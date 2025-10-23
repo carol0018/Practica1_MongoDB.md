@@ -1,0 +1,88 @@
+{
+  "_id": "SKU-001",
+  "nombre": "Portátil Pro-Book X1",
+  "marca": "TecnoÁgora Devices",
+  "categoria": "Portátiles",
+  "precio": 1199.99,
+  "stock": 25,
+  "especificaciones": {
+    "cpu": "Intel Core i7-12700H",
+    "ram": 16,
+    "pantalla": "15.6 pulgadas Full HD"
+  },
+  "tags": ["gaming", "16GB RAM", "oferta"],
+  "reviews": [
+    {
+      "usuario": "LauraG",
+      "puntuacion": 5,
+      "comentario": "Excelente rendimiento, muy rápido."
+    },
+    {
+      "usuario": "CarlosM",
+      "puntuacion": 4,
+      "comentario": "Buen portátil, aunque algo pesado."
+    }
+  ]
+}
+
+{
+  "_id": "SKU-002",
+  "nombre": "Smartphone Nova Z5",
+  "marca": "AndesTech",
+  "categoria": "Teléfonos",
+  "precio": 699.5,
+  "stock": 50,
+  "especificaciones": {
+    "cpu": "Snapdragon 8 Gen 2",
+    "ram": 12,
+    "pantalla": "6.7 pulgadas AMOLED"
+  },
+  "tags": [
+    "5G",
+    "pantalla AMOLED",
+    "batería duradera"
+  ],
+  "reviews": [
+    {
+      "usuario": "Marta89",
+      "puntuacion": 4,
+      "comentario": "Gran cámara y rendimiento excelente."
+    },
+    {
+      "usuario": "LuisR",
+      "puntuacion": 5,
+      "comentario": "Relación calidad-precio inmejorable."
+    }
+  ]
+}
+
+{
+  "_id": "SKU-003",
+  "nombre": "Monitor UltraView 27Q",
+  "marca": "VisualCore",
+  "categoria": "Monitores",
+  "precio": 329.99,
+  "stock": 40,
+  "especificaciones": {
+    "cpu": "N/A",
+    "ram": 0,
+    "pantalla": "27 pulgadas QHD 165Hz"
+  },
+  "tags": [
+    "gaming",
+    "alta frecuencia",
+    "QHD"
+  ],
+  "reviews": [
+    {
+      "usuario": "ErnestoP",
+      "puntuacion": 5,
+      "comentario": "Imagen nítida y colores muy precisos."
+    },
+    {
+      "usuario": "ClaudiaS",
+      "puntuacion": 4,
+      "comentario": "Excelente para juegos, aunque sin altavoces."
+    }
+  ]
+}
